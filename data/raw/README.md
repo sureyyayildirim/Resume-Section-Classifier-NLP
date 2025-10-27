@@ -8,7 +8,7 @@ This folder contains information about the **raw and original** dataset source f
 | :--- | :--- |
 | **Dataset Name** | Resume 5 Label Classification Dataset |
 | **Content** | This dataset is designed for resume section classification and contains labeled text data (resumes and their corresponding sections). |
-| **Size (Approx.)** | ~72 MB (Based on Hugging Face card info) |
+| **Size (Approx.)** | ~2.48 MB (Based on Hugging Face card info) |
 
 ## 🔗 Download Link
 
